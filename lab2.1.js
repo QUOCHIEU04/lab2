@@ -1,6 +1,6 @@
 const eventArray = new Map([
     [17, '⚽ GOAL'],
-    [36, '🔃 Substitution'],
+    [36, '🔃 Substitution'],    
     [47, '⚽ GOAL'],
     [61, '🔃 Substitution'],
     [64, '🟨 Yellow card'],
